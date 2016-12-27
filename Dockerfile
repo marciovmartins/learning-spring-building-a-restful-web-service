@@ -1,6 +1,6 @@
 FROM openjdk:8-alpine
 
-MAINTAINER "Marcio Vinicius <marciovmartins@hotmail.com"
+MAINTAINER "Marcio Vinicius <marciovmartins@hotmail.com>"
 
 COPY ./target/gs-rest-service-0.1.0.jar .
 
